@@ -2,8 +2,6 @@
 __pycache__/
 *.py[cod]
 
-# SQLite database file
-bgumart.db
 
 # Virtual environment (if used)
 venv/
