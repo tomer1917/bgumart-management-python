@@ -1,0 +1,23 @@
+# Byte‐compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# SQLite database file
+bgumart.db
+
+# Virtual environment (if used)
+venv/
+ENV/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
